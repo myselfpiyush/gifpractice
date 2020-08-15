@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gifpractice/static/css/main.3c04edf2.chunk.css",
+    "main.js": "/gifpractice/static/js/main.a5d82dd6.chunk.js",
+    "main.js.map": "/gifpractice/static/js/main.a5d82dd6.chunk.js.map",
+    "runtime-main.js": "/gifpractice/static/js/runtime-main.2a85ce5f.js",
+    "runtime-main.js.map": "/gifpractice/static/js/runtime-main.2a85ce5f.js.map",
+    "static/css/2.98f886d0.chunk.css": "/gifpractice/static/css/2.98f886d0.chunk.css",
+    "static/js/2.40b8965a.chunk.js": "/gifpractice/static/js/2.40b8965a.chunk.js",
+    "static/js/2.40b8965a.chunk.js.map": "/gifpractice/static/js/2.40b8965a.chunk.js.map",
+    "index.html": "/gifpractice/index.html",
+    "precache-manifest.ed7a439c12e150824bea41156692bdb1.js": "/gifpractice/precache-manifest.ed7a439c12e150824bea41156692bdb1.js",
+    "service-worker.js": "/gifpractice/service-worker.js",
+    "static/css/2.98f886d0.chunk.css.map": "/gifpractice/static/css/2.98f886d0.chunk.css.map",
+    "static/css/main.3c04edf2.chunk.css.map": "/gifpractice/static/css/main.3c04edf2.chunk.css.map",
+    "static/js/2.40b8965a.chunk.js.LICENSE.txt": "/gifpractice/static/js/2.40b8965a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a85ce5f.js",
+    "static/css/2.98f886d0.chunk.css",
+    "static/js/2.40b8965a.chunk.js",
+    "static/css/main.3c04edf2.chunk.css",
+    "static/js/main.a5d82dd6.chunk.js"
+  ]
+}
